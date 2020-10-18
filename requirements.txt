@@ -1,3 +1,4 @@
+nbconvert
 voila
 fastai2>=0.0.5
 pillow<7
